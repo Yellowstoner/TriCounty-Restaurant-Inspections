@@ -1,7 +1,8 @@
 # Project 2
 Tri-County Health Department Restaurant Inspections
 
-# Data Source = https://data.colorado.gov/Health/Restaurant-Inspections-in-Tri-County-Colorado/869n-zj3f
+# Data Source
+https://data.colorado.gov/Health/Restaurant-Inspections-in-Tri-County-Colorado/869n-zj3f
 
 After taking a exceptionally long time to look for a dataset that made sense, I landed on the "Restaurant Inspections in Tri-County Colorado".
 This dataset popped out to me because it (literally) hits close to home and it piqued my curiousity to know how restaurants scored on the ratings.
@@ -43,6 +44,7 @@ Some of the relationships in the data I wanted to explore include and are not li
 * *THE BIGGEST* thing I wanted to create was a search tool. It'd be a rectangular box on the webpage consisting of four fields to search for a restaurant in your area,
   when the search is complete, Google Maps box would display the restaurant(s) in the area and also display their risk factor by color (red, yellow or green). Furthermore,
   if you clicked on a particular restaurant, information would be displayed below the Google Map area and provide Restaurant name, address, Inspection Score and Risk factor.
+  (REFER TO IMAGES FOLDER FOR VISUAL).
   
 I **really really** wish I had more time to examine this dataset for the bootcamp because I believe I was on the verge of creating a hybrid visual spectacle and handy search
 tool. After boocamp is over, I plan on coming back to this to create a final product. This project was incredibly fun even in this short amount of time. Will hope to provide
