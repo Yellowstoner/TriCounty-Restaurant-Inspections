@@ -22,7 +22,7 @@ CREATE TABLE "pe_description" (
 CREATE TABLE "programs" (
     "program_id" VARCHAR   NOT NULL,
     "county" VARCHAR   NOT NULL,
-    "address" VARCHAR   NOT NULL,
+    "site_address" VARCHAR   NOT NULL,
     "total_violations" INT   NOT NULL,
     PRIMARY KEY (
         "program_id"
@@ -41,7 +41,7 @@ CREATE TABLE "risk" (
 CREATE TABLE "violations" (
     "program_id" VARCHAR   NOT NULL,
     "county" VARCHAR   NOT NULL,
-    "address" VARCHAR   NOT NULL,
+    "site_address" VARCHAR   NOT NULL,
     "foodborne_illness_violations" INT   NOT NULL,
     "good_retail_practices_violations" INT   NOT NULL,
     "total_violations" INT   NOT NULL,
