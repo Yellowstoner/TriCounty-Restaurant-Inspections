@@ -1,0 +1,32 @@
+risk_category,pe_desc,program_id
+High Risk (4),"Grocery Store w/ Deli (0 - 15,000 sq. ft.)",9
+High Risk (4),"Grocery Store w/ Deli (>15,000 sq. ft.)",5
+High Risk (4),"No fee license (K-12 schools, non-profit)",5
+High Risk (4),Restaurant (0 - 100 seats),53
+High Risk (4),Restaurant (101 - 200 seats),29
+High Risk (4),Restaurant (>200 seats),37
+Low Risk (2),"Grocery Store (0 - 15,000 sq. ft.)",17
+Low Risk (2),"Grocery Store w/ Deli (0 - 15,000 sq. ft.)",14
+Low Risk (2),"Limited Food Service (convenience, other)",158
+Low Risk (2),"No fee license (K-12 schools, non-profit)",21
+Low Risk (2),Restaurant (0 - 100 seats),199
+Low Risk (2),Restaurant (101 - 200 seats),8
+Low Risk (2),Restaurant (>200 seats),1
+Med Risk (3),Change of Owner (Initial Inspection) - Food,1
+Med Risk (3),"Grocery Store (0 - 15,000 sq. ft.)",20
+Med Risk (3),"Grocery Store (>15,000 sq. ft.)",5
+Med Risk (3),"Grocery Store w/ Deli (0 - 15,000 sq. ft.)",102
+Med Risk (3),"Grocery Store w/ Deli (>15,000 sq. ft.)",122
+Med Risk (3),"Limited Food Service (convenience, other)",30
+Med Risk (3),"No fee license (K-12 schools, non-profit)",369
+Med Risk (3),Restaurant (0 - 100 seats),1573
+Med Risk (3),Restaurant (101 - 200 seats),473
+Med Risk (3),Restaurant (>200 seats),235
+Very Low Risk (1),"Grocery Store (0 - 15,000 sq. ft.)",66
+Very Low Risk (1),"Grocery Store (>15,000 sq. ft.)",10
+Very Low Risk (1),"Grocery Store w/ Deli (0 - 15,000 sq. ft.)",5
+Very Low Risk (1),"Limited Food Service (convenience, other)",317
+Very Low Risk (1),"No fee license (K-12 schools, non-profit)",14
+Very Low Risk (1),Restaurant (0 - 100 seats),42
+Very Low Risk (1),Restaurant (101 - 200 seats),4
+Very Low Risk (1),Restaurant (>200 seats),2
