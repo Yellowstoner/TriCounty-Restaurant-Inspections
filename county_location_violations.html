@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="style.css">
 
     <title>Health Inspector Collector</title> <!-- Working Title -->
-  </head>
-  <body >
+	</head>
+	<body>
     
     <div>
       <nav class="navbar  bg-warning">
@@ -27,17 +27,17 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="#" font-weight="bold" fill="#f2f3f4">Home</a>
+              <a class="nav-link" href="index.html" font-weight="bold" fill="#f2f3f4">Home</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" font-weight="bold" fill="#f2f3f4">
                 Inspection Locations 
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="restaurants/index.html">Restaurants</a>
-                <a class="dropdown-item" href="limited_food_service/index.html">Limited Food Service</a>
-                <a class="dropdown-item" href="no_fee_license/index.html">No Fee License</a>
-                <a class="dropdown-item" href="grocery-store/index.html">Grocery Stores</a>
+                <a class="dropdown-item" href="restaurants.html">Restaurants</a>
+                <a class="dropdown-item" href="limited_food_service.html">Limited Food Service</a>
+                <a class="dropdown-item" href="no_fee_license.html">No Fee License</a>
+                <a class="dropdown-item" href="grocery-store.html">Grocery Stores</a>
               </div>
            
           </ul>
@@ -51,8 +51,12 @@
     </nav>
     </div>
    
+    <div class="chart">
+		</div>
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+		<script type="text/javascript" src="geoGraph.js"></script>
     
-   
     <!-- End of container  -->
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
